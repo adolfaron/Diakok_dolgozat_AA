@@ -1,0 +1,14 @@
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\bin\Debug\net8.0\Diakok_dolgozat_AA.exe
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\bin\Debug\net8.0\Diakok_dolgozat_AA.deps.json
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\bin\Debug\net8.0\Diakok_dolgozat_AA.runtimeconfig.json
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\bin\Debug\net8.0\Diakok_dolgozat_AA.dll
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\bin\Debug\net8.0\Diakok_dolgozat_AA.pdb
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\obj\Debug\net8.0\Diakok_dolgozat_AA.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\obj\Debug\net8.0\Diakok_dolgozat_AA.AssemblyInfoInputs.cache
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\obj\Debug\net8.0\Diakok_dolgozat_AA.AssemblyInfo.cs
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\obj\Debug\net8.0\Diakok_dolgozat_AA.csproj.CoreCompileInputs.cache
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\obj\Debug\net8.0\Diakok_dolgozat_AA.dll
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\obj\Debug\net8.0\refint\Diakok_dolgozat_AA.dll
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\obj\Debug\net8.0\Diakok_dolgozat_AA.pdb
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\obj\Debug\net8.0\Diakok_dolgozat_AA.genruntimeconfig.cache
+H:\Documents\C#\Diakok_dolgozat_AA\Diakok_dolgozat_AA\obj\Debug\net8.0\ref\Diakok_dolgozat_AA.dll
